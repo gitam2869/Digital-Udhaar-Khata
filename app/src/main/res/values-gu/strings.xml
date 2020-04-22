@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ડિજિટલ ઉધાર ખાતા</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">ડિજિટલ</string>
+    <string name="stringOfUdhaar">ઉધાર</string>
+    <string name="stringOfKhata">ખાતા</string>
+    <string name="stringOfGetStarted">શરૂ કરો</string>
+
+
+    <string name="stringOfLanguageName">ગુજરાતી</string>
+    <string name="stringOfSelectLanguage">ભાષા પસંદ કરો</string>
+    <string name="stringOfContinueWithLanguage">ચાલુ રાખો ગુજરાતી ભાષા સાથે</string>
+    <string name="stringOfContinueButton">ચાલુ રાખો</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">સ્વાગત છે</string>
+    <string name="stringOfVerifyMobile">તમારા મોબાઇલને ચકાસી લો</string>
+    <string name="stringOfEnterMobileNumberMessage">કૃપા કરી તમારો માન્ય મોબાઇલ નંબર દાખલ કરો</string>
+    <string name="stringOfMobileNumber">મોબાઇલ નંબર</string>
+    <string name="stringOfSend">મોકલો</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">કૃપા કરીને ઓટીપી દાખલ કરો</string>
+    <string name="stringOfOTP">ઓટીપી</string>
+    <string name="stringOfVerifyOTP">ઓટીપી ચકાસો</string>
+
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">કૃપા કરીને તમારી દુકાનનું નામ દાખલ કરો</string>
+    <string name="stringOfShopName">દુકાનનું નામ</string>
+    <string name="stringOfSubmitButton">સબમિટ કરો</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">ગ્રાહકો</string>
+    <string name="stringOfYouWillTake">તમે લઈ જશો</string>
+    <string name="stringOfYouWillGive">તમે આપીશ</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">નવો ગ્રાહક ઉમેરો</string>
+    <string name="stringOfAddNewCustomerFromContacts">સંપર્કોમાંથી ગ્રાહક ઉમેરો</string>
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">તમારા વ્યવહાર કરો</string>
+    <string name="stringOfCustomerName">ગ્રાહક નું નામ</string>
+    <string name="stringOfRupees">રૂપિયા</string>
+    <string name="stringOfYouGot">તને મળ્યું</string>
+    <string name="stringOfYouGave">તમે આપ્યું</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">પ્રોફાઇલ</string>
+    <string name="stringOfStatistics">આંકડા</string>
+    <string name="stringOfBalance">બાકી</string>
+    <string name="stringOfLanguage">ભાષા</string>
+    <string name="stringOfSignOut">સાઇન આઉટ</string>
+
+</resources>

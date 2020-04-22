@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ডিজিটাল উদার খাতা</string>
+
+    <!--    app name-->
+    <string name="stringOfDigital">ডিজিটাল</string>
+    <string name="stringOfUdhaar">উদার</string>
+    <string name="stringOfKhata">খাতা</string>
+    <string name="stringOfGetStarted">এবার শুরু করা যাক</string>
+
+    <string name="stringOfLanguageName">বাংলা</string>
+    <string name="stringOfSelectLanguage">ভাষা নির্বাচন কর</string>
+    <string name="stringOfContinueWithLanguage">বাংলা ভাষার সাথে চালিয়ে যান</string>
+    <string name="stringOfContinueButton">চালিয়ে</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">স্বাগত</string>
+    <string name="stringOfVerifyMobile">আপনার মোবাইল যাচাই করুন</string>
+    <string name="stringOfEnterMobileNumberMessage">দয়া করে আপনার বৈধ মোবাইল নম্বর লিখুন</string>
+    <string name="stringOfMobileNumber">মোবাইল নম্বর</string>
+    <string name="stringOfSend">পাঠান</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">দয়া করে ওটিপি প্রবেশ করুন</string>
+    <string name="stringOfOTP">ওটিপি</string>
+    <string name="stringOfVerifyOTP">ওটিপি যাচাই করুন</string>
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">আপনার দোকানের নাম লিখুন</string>
+    <string name="stringOfShopName">শপের নাম</string>
+    <string name="stringOfSubmitButton">জমা দিন</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">গ্রাহকরা</string>
+    <string name="stringOfYouWillTake">আপনি নেবেন</string>
+    <string name="stringOfYouWillGive">আপনি দেবেন</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">নতুন গ্রাহক যুক্ত করুন</string>
+    <string name="stringOfAddNewCustomerFromContacts">পরিচিতি থেকে গ্রাহক যুক্ত করুন</string>
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">আপনার লেনদেন করুন</string>
+    <string name="stringOfCustomerName">ক্রেতার নাম</string>
+    <string name="stringOfRupees">টাকা</string>
+    <string name="stringOfYouGot">আপনি পেয়েছেন</string>
+    <string name="stringOfYouGave">আপনার দেওয়া</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">প্রোফাইল</string>
+    <string name="stringOfStatistics">পরিসংখ্যান</string>
+    <string name="stringOfBalance">ভারসাম্য</string>
+    <string name="stringOfLanguage">ভাষা</string>
+    <string name="stringOfSignOut">সাইন আউট</string>
+
+</resources>

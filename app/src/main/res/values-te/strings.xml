@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">డిజిటల్ ఉధార్ ఖాటా</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">డిజిటల్</string>
+    <string name="stringOfUdhaar">ఉధార్</string>
+    <string name="stringOfKhata">ఖాటా</string>
+    <string name="stringOfGetStarted">ప్రారంభించడానికి</string>
+
+
+    <string name="stringOfLanguageName">తెలుగు</string>
+    <string name="stringOfSelectLanguage">భాషను ఎంచుకోండి</string>
+    <string name="stringOfContinueWithLanguage">తెలుగు భాషతో కొనసాగండి</string>
+    <string name="stringOfContinueButton">కొనసాగించు</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">స్వాగతం</string>
+    <string name="stringOfVerifyMobile">మీ మొబైల్‌ను ధృవీకరించండి</string>
+    <string name="stringOfEnterMobileNumberMessage">దయచేసి మీ చెల్లుబాటు అయ్యే మొబైల్ నంబర్‌ను నమోదు చేయండి</string>
+    <string name="stringOfMobileNumber">మొబైల్ సంఖ్య</string>
+    <string name="stringOfSend">పంపు</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">దయచేసి OTP ని నమోదు చేయండి</string>
+    <string name="stringOfOTP">OTP</string>
+    <string name="stringOfVerifyOTP">OTP ని ధృవీకరించండి</string>
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">దయచేసి మీ షాప్ పేరును నమోదు చేయండి</string>
+    <string name="stringOfShopName">షాప్ పేరు</string>
+    <string name="stringOfSubmitButton">సమర్పించండి</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">వినియోగదారుడు</string>
+    <string name="stringOfYouWillTake">మీరు తీసుకుంటారు</string>
+    <string name="stringOfYouWillGive">మీరు ఇస్తారు</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">క్రొత్త కస్టమర్‌ను జోడించండి</string>
+    <string name="stringOfAddNewCustomerFromContacts">పరిచయాల నుండి కస్టమర్‌ను జోడించండి</string>
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">మీ లావాదేవీ చేయండి</string>
+    <string name="stringOfCustomerName">వినియోగదారుని పేరు</string>
+    <string name="stringOfRupees">రూపాయలలో</string>
+    <string name="stringOfYouGot">నీకు దొరికింది</string>
+    <string name="stringOfYouGave">నువ్వు ఇచ్చావు</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">ప్రొఫైల్</string>
+    <string name="stringOfStatistics">గణాంకాలు</string>
+    <string name="stringOfBalance">సంతులనం</string>
+    <string name="stringOfLanguage">భాషా</string>
+    <string name="stringOfSignOut">సైన్ అవుట్ చేయండి</string>
+
+</resources>

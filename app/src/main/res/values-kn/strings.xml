@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ಡಿಜಿಟಲ್ ಉದಾರ್ ಖಾಟಾ</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">ಡಿಜಿಟಲ್</string>
+    <string name="stringOfUdhaar">ಉದಾರ್</string>
+    <string name="stringOfKhata">ಖಾಟಾ</string>
+    <string name="stringOfGetStarted">ಪ್ರಾರಂಭಿಸಿ</string>
+
+
+    <string name="stringOfLanguageName">ಕನ್ನಡ</string>
+    <string name="stringOfSelectLanguage">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="stringOfContinueWithLanguage">ಕನ್ನಡ ಭಾಷೆಯೊಂದಿಗೆ ಮುಂದುವರಿಸಿ</string>
+    <string name="stringOfContinueButton">ಮುಂದುವರಿಸಿ</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">ಸ್ವಾಗತ</string>
+    <string name="stringOfVerifyMobile">ನಿಮ್ಮ ಮೊಬೈಲ್ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="stringOfEnterMobileNumberMessage">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಮಾನ್ಯ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="stringOfMobileNumber">ಮೊಬೈಲ್ ನಂಬರ</string>
+    <string name="stringOfSend">ಕಳುಹಿಸು</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">ದಯವಿಟ್ಟು ಒಟಿಪಿ ನಮೂದಿಸಿ</string>
+    <string name="stringOfOTP">ಒಟಿಪಿ</string>
+    <string name="stringOfVerifyOTP">ಒಟಿಪಿ ಪರಿಶೀಲಿಸಿ</string>
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಅಂಗಡಿಯ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="stringOfShopName">ಅಂಗಡಿ ಹೆಸರು</string>
+    <string name="stringOfSubmitButton">ಸಲ್ಲಿಸು</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">ಗ್ರಾಹಕರು</string>
+    <string name="stringOfYouWillTake">ನೀವು ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಿ</string>
+    <string name="stringOfYouWillGive">ನೀವು ನೀಡುತ್ತೀರಿ</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">ಹೊಸ ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+    <string name="stringOfAddNewCustomerFromContacts">ಸಂಪರ್ಕಗಳಿಂದ ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">ನಿಮ್ಮ ವಹಿವಾಟು ಮಾಡಿ</string>
+    <string name="stringOfCustomerName">ಗ್ರಾಹಕ ಹೆಸರು</string>
+    <string name="stringOfRupees">ರೂಪಾಯಿ</string>
+    <string name="stringOfYouGot">ನೀವು ಸಿಕ್ಕಿದ್ದೀರಿ</string>
+    <string name="stringOfYouGave">ನೀನು ಕೊಟ್ಟೆ</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">ಪ್ರೊಫೈಲ್</string>
+    <string name="stringOfStatistics">ಅಂಕಿಅಂಶಗಳು</string>
+    <string name="stringOfBalance">ಸಮತೋಲನ</string>
+    <string name="stringOfLanguage">ಭಾಷೆ</string>
+    <string name="stringOfSignOut">ಸೈನ್ .ಟ್ ಮಾಡಿ</string>
+
+</resources>

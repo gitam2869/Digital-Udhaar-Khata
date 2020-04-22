@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ContactsReaderActivity">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/idCardViewAddNewCustomerContactsActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:checkable="true"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="12dp">
+
+
+            <TextView
+                android:id="@+id/idTextViewIconSelectLanguage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_drawable"
+                android:text="+"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:id="@+id/idTextViewLanguageNameSelectLanguage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/stringOfAddNewCustomer"
+                android:textSize="18sp"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginLeft="16dp"
+                android:layout_gravity="center_horizontal|center_vertical"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_keyboard_arrow_right_black_24dp"
+                android:layout_gravity="center_horizontal|center_vertical"
+                />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stringOfAddNewCustomerFromContacts"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:background="#F0F0F0"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/idRecycleViewContactReader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffff" />
+
+
+</LinearLayout>

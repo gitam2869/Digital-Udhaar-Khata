@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AccountVerificationActivity"
+    android:orientation="vertical"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="60dp"
+            android:gravity="center_horizontal"
+                    >
+
+            <com.google.android.material.button.MaterialButton
+                android:layout_weight="5"
+                android:id="@+id/idButtonGoWithoutOTPAccountVerificationActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Go without otp"
+                android:textSize="16sp"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                style="@style/ShapeAppearance.MaterialComponents.LargeComponent"
+                app:backgroundTint="#C81E1E"
+
+                />
+
+                    <ImageView
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:src="@drawable/ic_smartphone"
+                        android:layout_margin="12dp"
+                        />
+
+                    <TextView
+                        android:id="@+id/idTextViewVerifyMobileAccountVerificationActivity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/stringOfVerifyMobile"
+                        android:textSize="24sp"
+                        android:textColor="#01BBA9"
+                        />
+
+                    <TextView
+                        android:id="@+id/idTextViewVerifyMobileMessageAccountVerificationActivity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/stringOfEnterMobileNumberMessage"
+                        android:textSize="16sp"
+                        android:layout_margin="12dp"
+                        android:textColor="#231F20"
+                        android:gravity="center"
+                        />
+                    <TextView
+                        android:id="@+id/idTextViewOTPMessageAccountVerificationActivity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/stringOfPleaseEnterOtp"
+                        android:textSize="16sp"
+                        android:layout_margin="12dp"
+                        android:textColor="#231F20"
+                        android:gravity="center"
+                        android:visibility="gone"
+
+                        />
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:id="@+id/idEditViewMobileNumberAccountVerificationActivity"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/stringOfMobileNumber"
+                        android:layout_margin="32dp"
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="numberDecimal"
+                            android:drawableLeft="@drawable/ic_phone_android_black_24dp"
+                            />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/idEditViewOTPAccountVerificationActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/stringOfOTP"
+                android:layout_margin="32dp"
+                android:visibility="gone"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="numberDecimal"
+                    />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <Button
+                android:id="@+id/idButtonSendAccountVerificationActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/stringOfSend"
+                android:layout_margin="32dp"
+                android:textSize="16sp"
+                />
+            <com.google.android.material.button.MaterialButton
+                android:layout_weight="5"
+                android:id="@+id/idButtonOTPAccountVerificationActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/stringOfVerifyOTP"
+                android:textSize="16sp"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:visibility="gone"
+                style="@style/ShapeAppearance.MaterialComponents.LargeComponent"
+                app:backgroundTint="#1D800E"
+                />
+
+
+                </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

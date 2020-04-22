@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item-->
+<!--        android:id="@+id/favorite"-->
+<!--        android:icon="@drawable/ic_arrow"-->
+<!--        android:title="arrow"-->
+<!--        android:contentDescription="des"-->
+<!--        app:showAsAction="ifRoom" />-->
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_filter_list_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="filter" />
+
+<!--    <item-->
+<!--        android:id="@+id/more"-->
+<!--        android:title="more"-->
+<!--        android:contentDescription="morwe"-->
+<!--        app:showAsAction="never" />-->
+
+</menu>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ڈیجیٹل ادھار کھٹا</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">ڈیجیٹل</string>
+    <string name="stringOfUdhaar">ادھار</string>
+    <string name="stringOfKhata">کھٹا</string>
+    <string name="stringOfGetStarted">شروع کرنے کے</string>
+
+
+    <string name="stringOfLanguageName">اردو</string>
+    <string name="stringOfSelectLanguage">زبان منتخب کریں</string>
+    <string name="stringOfContinueWithLanguage">اردو زبان کے ساتھ جاری رکھیں</string>
+    <string name="stringOfContinueButton">جاری رہے</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">خوش آمدید</string>
+    <string name="stringOfVerifyMobile">اپنے موبائل کی تصدیق کریں</string>
+    <string name="stringOfEnterMobileNumberMessage">براہ کرم اپنا درست موبائل نمبر درج کریں</string>
+    <string name="stringOfMobileNumber">موبائل فون کانمبر</string>
+    <string name="stringOfSend">بھیجیں</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">برائے مہربانی او ٹی پی درج کریں</string>
+    <string name="stringOfOTP">او ٹی پی</string>
+    <string name="stringOfVerifyOTP">او ٹی پیکی تصدیق کریں</string>
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">برائے کرم اپنی دکان کا نام درج کریں</string>
+    <string name="stringOfShopName">دکان کا نام</string>
+    <string name="stringOfSubmitButton">جمع کرائیں</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">گاہکوں</string>
+    <string name="stringOfYouWillTake">آپ لیں گے</string>
+    <string name="stringOfYouWillGive">آپ دیں گے</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">نیا گاہک شامل کریں</string>
+    <string name="stringOfAddNewCustomerFromContacts">رابطوں سے گاہک شامل کریں</string>
+
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">اپنا لین دین کریں</string>
+    <string name="stringOfCustomerName">گاہک کا نام</string>
+    <string name="stringOfRupees">روپے</string>
+    <string name="stringOfYouGot">تم نے پا لیا</string>
+    <string name="stringOfYouGave">تم نے دیا</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">پروفائل</string>
+    <string name="stringOfStatistics">اعدادوشمار</string>
+    <string name="stringOfBalance">بقیہ</string>
+    <string name="stringOfLanguage">زبان</string>
+    <string name="stringOfSignOut">باہر جائیں</string>
+
+</resources>

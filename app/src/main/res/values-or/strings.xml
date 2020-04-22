@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ଡିଜିଟାଲ୍ ଉଦର ଖଟା</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">ଡିଜିଟାଲ୍</string>
+    <string name="stringOfUdhaar">ଉଦର</string>
+    <string name="stringOfKhata">ଖଟା</string>
+    <string name="stringOfGetStarted">ଆରମ୍ଭ ହୋଇଗଲା</string>
+
+
+    <string name="stringOfLanguageName">ଓଡିଆ</string>
+    <string name="stringOfSelectLanguage">ଭାଷା ଚୟନ କରନ୍ତୁ |</string>
+    <string name="stringOfContinueWithLanguage">ଓଡିଆ ଭାଷା ସହିତ ଜାରି ରଖନ୍ତୁ |</string>
+    <string name="stringOfContinueButton">ଜାରି ରଖ |</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">ସ୍ୱାଗତ</string>
+    <string name="stringOfVerifyMobile">ଆପଣଙ୍କର ମୋବାଇଲ୍ ଯାଞ୍ଚ କରନ୍ତୁ |</string>
+    <string name="stringOfEnterMobileNumberMessage">ଦୟାକରି ଆପଣଙ୍କର ବ id ଧ ମୋବାଇଲ୍ ନମ୍ବର ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="stringOfMobileNumber">ମୋବାଇଲ୍ ନମ୍ବର</string>
+    <string name="stringOfSend">ପଠାନ୍ତୁ</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">ଦୟାକରି OTP ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="stringOfOTP">OTP</string>
+    <string name="stringOfVerifyOTP">OTP ଯାଞ୍ଚ କରନ୍ତୁ |</string>
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">ଦୟାକରି ଆପଣଙ୍କର ଦୋକାନ ନାମ ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="stringOfShopName">ଦୋକାନ ନାମ</string>
+    <string name="stringOfSubmitButton">ଦାଖଲ କରନ୍ତୁ |</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">ଗ୍ରାହକ</string>
+    <string name="stringOfYouWillTake">ତୁମେ ନେବ</string>
+    <string name="stringOfYouWillGive">ତୁମେ ଦେବ</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">ନୂତନ ଗ୍ରାହକ ଯୋଡନ୍ତୁ |</string>
+    <string name="stringOfAddNewCustomerFromContacts">ଯୋଗାଯୋଗରୁ ଗ୍ରାହକ ଯୋଡନ୍ତୁ |</string>
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">ତୁମର କାରବାର କର |</string>
+    <string name="stringOfCustomerName">ଗ୍ରାହକଙ୍କ ନାମ</string>
+    <string name="stringOfRupees">ଟଙ୍କା</string>
+    <string name="stringOfYouGot">ତୁ ପାଇଗଲୁ</string>
+    <string name="stringOfYouGave">ତୁମେ ଦେଇଛ</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">ପ୍ରୋଫାଇଲ୍</string>
+    <string name="stringOfStatistics">ପରିସଂଖ୍ୟାନ</string>
+    <string name="stringOfBalance">ସନ୍ତୁଳନ</string>
+    <string name="stringOfLanguage">ଭାଷା</string>
+    <string name="stringOfSignOut">ବାହାରି ଯାନ୍ତୁ</string>
+
+</resources>

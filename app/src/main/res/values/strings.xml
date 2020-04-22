@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Digital Udhaar Khata</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">Digital</string>
+    <string name="stringOfUdhaar">Udhaar</string>
+    <string name="stringOfKhata">Khata</string>
+    <string name="stringOfGetStarted">Get Started</string>
+
+
+    <!--    First Part-->
+    <string name="stringOfLanguageName">English</string>
+    <string name="stringOfSelectLanguage">Select Language</string>
+    <string name="stringOfContinueWithLanguage">Continue With English Language</string>
+    <string name="stringOfContinueButton">Continue</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">Welcome</string>
+    <string name="stringOfVerifyMobile">Verify Your Mobile</string>
+    <string name="stringOfEnterMobileNumberMessage">Please Enter Your Valid Mobile Number</string>
+    <string name="stringOfMobileNumber">Mobile Number</string>
+    <string name="stringOfSend">Send</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">Please Enter OTP</string>
+    <string name="stringOfOTP">OTP</string>
+    <string name="stringOfVerifyOTP">Verify OTP</string>
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">Please Enter Your Shop Name</string>
+    <string name="stringOfShopName">Shop Name</string>
+    <string name="stringOfSubmitButton">Submit</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">Customers</string>
+    <string name="stringOfYouWillTake">You\'ll Take</string>
+    <string name="stringOfYouWillGive">You\'ll Give</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">Add New Customer</string>
+    <string name="stringOfAddNewCustomerFromContacts">Add Customer From Contacts</string>
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">Make Your Transaction</string>
+    <string name="stringOfCustomerName">Customer Name</string>
+    <string name="stringOfRupees">Rupees</string>
+    <string name="stringOfYouGot">You Got</string>
+    <string name="stringOfYouGave">You Gave</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">Profile</string>
+    <string name="stringOfStatistics">Statistics</string>
+    <string name="stringOfBalance">Balance</string>
+    <string name="stringOfLanguage">Language</string>
+    <string name="stringOfSignOut">Sign Out</string>
+
+</resources>

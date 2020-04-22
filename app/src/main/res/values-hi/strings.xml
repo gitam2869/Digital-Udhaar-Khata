@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">डिजिटल उधार खाता</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">डिजिटल</string>
+    <string name="stringOfUdhaar">उधार</string>
+    <string name="stringOfKhata">खाता</string>
+    <string name="stringOfGetStarted">शुरू हो जाओ</string>
+
+
+    <string name="stringOfLanguageName">हिंदी</string>
+    <string name="stringOfSelectLanguage">भाषा का चयन करें</string>
+    <string name="stringOfContinueWithLanguage">हिंदी भाषा के साथ जारी रखें</string>
+    <string name="stringOfContinueButton">जारी रखें</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">स्वागत हे</string>
+    <string name="stringOfVerifyMobile">अपना मोबाइल सत्यापित करें</string>
+    <string name="stringOfEnterMobileNumberMessage">कृपया अपना वैध मोबाइल नंबर दर्ज करें</string>
+    <string name="stringOfMobileNumber">मोबाइल नंबर</string>
+    <string name="stringOfSend">भेजे</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">कृपया OTP दर्ज करें</string>
+    <string name="stringOfOTP">OTP</string>
+    <string name="stringOfVerifyOTP">OTP सत्यापित करें</string>
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">कृपया अपनी दुकान का नाम दर्ज करें</string>
+    <string name="stringOfShopName">दुकान का नाम</string>
+    <string name="stringOfSubmitButton">प्रस्तुत</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">ग्राहकों</string>
+    <string name="stringOfYouWillTake">आप लेंगे</string>
+    <string name="stringOfYouWillGive">आप देंगे</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">नया ग्राहक जोड़ें</string>
+    <string name="stringOfAddNewCustomerFromContacts">ग्राहक संपर्क से जोड़ें</string>
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">अपना लेन-देन करें</string>
+    <string name="stringOfCustomerName">ग्राहक का नाम</string>
+    <string name="stringOfRupees">रुपये</string>
+    <string name="stringOfYouGot">आपको मिला</string>
+    <string name="stringOfYouGave">आपने दिया</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">प्रोफ़ाइल</string>
+    <string name="stringOfStatistics">आंकड़े</string>
+    <string name="stringOfBalance">शेष</string>
+    <string name="stringOfLanguage">भाषा</string>
+    <string name="stringOfSignOut">प्रस्थान करें</string>
+
+</resources>

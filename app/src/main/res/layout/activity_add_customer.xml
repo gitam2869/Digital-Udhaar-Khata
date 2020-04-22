@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddCustomerActivity"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/idTextViewVerifyMobileAccountVerificationActivity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/stringOfMakeYourTransaction"
+                android:textSize="20sp"
+                android:textColor="#F65318"
+                android:layout_marginTop="40dp"
+                />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/idEditTextViewRupeesAddCustomerActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/stringOfRupees"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:layout_marginTop="12dp"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="numberDecimal"
+                    android:drawableLeft="@drawable/ic_rupee_2"
+                    />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="10"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                >
+
+<!--                <com.google.android.material.button.MaterialButton-->
+<!--                    android:layout_weight="5"-->
+<!--                    android:text="You gave"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    app:backgroundTint="#D32F2F"/>-->
+
+                <com.google.android.material.button.MaterialButton
+                    android:layout_weight="5"
+                    android:id="@+id/idButtonYouGaveAddCustomerActivity"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/stringOfYouGave"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginRight="6dp"
+                    android:layout_marginBottom="60dp"
+                    app:backgroundTint="#C81E1E"
+                    android:drawableEnd="@drawable/ic_rupee_1"
+                    android:textColorHint="@color/design_default_color_primary_dark"
+                    />
+
+                <com.google.android.material.button.MaterialButton
+                    android:layout_weight="5"
+                    android:id="@+id/idButtonYouGotAddCustomerActivity"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/stringOfYouGot"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginRight="12dp"
+                    android:layout_marginBottom="60dp"
+                    style="@style/ShapeAppearance.MaterialComponents.LargeComponent"
+                    app:backgroundTint="#1D800E"
+                    android:drawableEnd="@drawable/ic_rupee_1"
+                    />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+<!--    <com.google.android.material.textfield.TextInputLayout-->
+<!--        android:id="@+id/textField"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:endIconMode="clear_text"-->
+<!--        android:hint="rupees"-->
+<!--        app:boxBackgroundColor="#ffff"-->
+<!--        android:layout_margin="56dp"-->
+<!--        >-->
+
+<!--        <com.google.android.material.textfield.TextInputEditText-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:inputType="numberDecimal"-->
+<!--            />-->
+
+<!--    </com.google.android.material.textfield.TextInputLayout>-->
+
+</RelativeLayout>

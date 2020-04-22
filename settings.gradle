@@ -1,0 +1,2 @@
+rootProject.name='Digital Udhaar Khata'
+include ':app'

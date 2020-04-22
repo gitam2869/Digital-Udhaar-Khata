@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">டிஜிட்டல் உதார் கட்டா</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">டிஜிட்டல்</string>
+    <string name="stringOfUdhaar">உதார்</string>
+    <string name="stringOfKhata">கட்டா</string>
+    <string name="stringOfGetStarted">தொடங்கவும்</string>
+
+
+    <string name="stringOfLanguageName">தமிழ்</string>
+    <string name="stringOfSelectLanguage">மொழியை தேர்ந்தெடுங்கள்</string>
+    <string name="stringOfContinueWithLanguage">தமிழ் மொழியுடன் தொடரவும்</string>
+    <string name="stringOfContinueButton">தொடரவும்</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">வரவேற்பு</string>
+    <string name="stringOfVerifyMobile">உங்கள் மொபைலை சரிபார்க்கவும்</string>
+    <string name="stringOfEnterMobileNumberMessage">உங்கள் செல்லுபடியாகும் மொபைல் எண்ணை உள்ளிடவும்</string>
+    <string name="stringOfMobileNumber">கைபேசி எண்</string>
+    <string name="stringOfSend">அனுப்புக</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">OTP ஐ உள்ளிடவும்</string>
+    <string name="stringOfOTP">OTP</string>
+    <string name="stringOfVerifyOTP">OTP ஐ சரிபார்க்கவும்</string>
+
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">உங்கள் கடை பெயரை உள்ளிடவும்</string>
+    <string name="stringOfShopName">கடை பெயர்</string>
+    <string name="stringOfSubmitButton">சமர்ப்பிக்கவும்</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">வாடிக்கையாளர்கள்</string>
+    <string name="stringOfYouWillTake">நீங்கள் எடுப்பீர்கள்</string>
+    <string name="stringOfYouWillGive">நீங்கள் கொடுப்பீர்கள்</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">புதிய வாடிக்கையாளரைச் சேர்க்கவும்</string>
+    <string name="stringOfAddNewCustomerFromContacts">தொடர்புகளிலிருந்து வாடிக்கையாளரைச் சேர்க்கவும்</string>
+
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">உங்கள் பரிவர்த்தனை செய்யுங்கள்</string>
+    <string name="stringOfCustomerName">வாடிக்கையாளர் பெயர்</string>
+    <string name="stringOfRupees">ரூபாய்</string>
+    <string name="stringOfYouGot">உங்களுக்கு கிடைத்தது</string>
+    <string name="stringOfYouGave">நிி கொடுத்தாய்</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">சுயவிவரம்</string>
+    <string name="stringOfStatistics">புள்ளிவிவரம்</string>
+    <string name="stringOfBalance">இருப்பு</string>
+    <string name="stringOfLanguage">மொழி</string>
+    <string name="stringOfSignOut">வெளியேறு</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ഡിജിറ്റൽ ഉദർ ഖാറ്റ</string>
+
+    <!--    app name-->
+
+    <string name="stringOfDigital">ഡിജിറ്റൽ</string>
+    <string name="stringOfUdhaar">ഉദർ</string>
+    <string name="stringOfKhata">ഖാറ്റ</string>
+    <string name="stringOfGetStarted">തുടങ്ങി</string>
+
+
+
+    <string name="stringOfLanguageName">മലയാളം</string>
+    <string name="stringOfSelectLanguage">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+    <string name="stringOfContinueWithLanguage">മലയാള ഭാഷയിൽ തുടരുക</string>
+    <string name="stringOfContinueButton">തുടരുക</string>
+
+    <!--    Second part-->
+    <string name="stringOfWelcome">സ്വാഗതം</string>
+    <string name="stringOfVerifyMobile">നിങ്ങളുടെ മൊബൈൽ പരിശോധിക്കുക</string>
+    <string name="stringOfEnterMobileNumberMessage">നിങ്ങളുടെ സാധുവായ മൊബൈൽ നമ്പർ നൽകുക</string>
+    <string name="stringOfMobileNumber">മൊബൈൽ നമ്പർ</string>
+    <string name="stringOfSend">അയയ്‌ക്കുക</string>
+
+    <!--    verification of OTP-->
+    <string name="stringOfPleaseEnterOtp">OTP നൽകുക</string>
+    <string name="stringOfOTP">OTP</string>
+    <string name="stringOfVerifyOTP">OTP പരിശോധിക്കുക</string>
+
+    <!--    Third Part-->
+    <string name="stringOfShopNameMessage">നിങ്ങളുടെ ഷോപ്പിന്റെ പേര് നൽകുക</string>
+    <string name="stringOfShopName">ഷോപ്പ് നാമം</string>
+    <string name="stringOfSubmitButton">സമർപ്പിക്കുക</string>
+
+    <!--    fourth part Customer List-->
+    <string name="stringOfCustomer">ഉപഭോക്താക്കൾ</string>
+    <string name="stringOfYouWillTake">നിങ്ങൾ എടുക്കും</string>
+    <string name="stringOfYouWillGive">നിങ്ങൾ നൽകും</string>
+
+    <!--    fifth part Contact Reader Activity-->
+    <string name="stringOfAddNewCustomer">പുതിയ ഉപഭോക്താവിനെ ചേർക്കുക</string>
+    <string name="stringOfAddNewCustomerFromContacts">കോൺ‌ടാക്റ്റുകളിൽ നിന്ന് ഉപഭോക്താവിനെ ചേർക്കുക</string>
+
+    <!--    sixth part Add New Contacts without contacts list-->
+    <string name="stringOfMakeYourTransaction">നിങ്ങളുടെ ഇടപാട് നടത്തുക</string>
+    <string name="stringOfCustomerName">ഉപഭോക്താവിന്റെ പേര്</string>
+    <string name="stringOfRupees">രൂപ</string>
+    <string name="stringOfYouGot">നിനക്ക് കിട്ടി</string>
+    <string name="stringOfYouGave">നിങ്ങൾ നൽകി</string>
+
+    <!--    seventh activity settings activity-->
+    <string name="stringOfProfile">പ്രൊഫൈൽ</string>
+    <string name="stringOfStatistics">സ്ഥിതിവിവരക്കണക്കുകൾ</string>
+    <string name="stringOfBalance">ബാലൻസ്</string>
+    <string name="stringOfLanguage">ഭാഷ</string>
+    <string name="stringOfSignOut">സൈൻ ഔട്ട്</string>
+
+</resources>

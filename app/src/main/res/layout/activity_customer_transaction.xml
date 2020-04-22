@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CustomerTransactionActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="9">
+
+
+            <LinearLayout
+                android:layout_weight="2"
+                android:id="@+id/id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="4dp"
+
+                >
+
+                <TextView
+                    android:id="@+id/idTextViewDateCustomerTransaction"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="@string/stringOfYouGave"
+                    android:padding="12dp"
+                    android:gravity="center"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    />
+
+    <!--            <TextView-->
+    <!--                android:id="@+id/idTextViewYouGaveCustomerTransaction"-->
+    <!--                android:layout_weight="2"-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="match_parent"-->
+    <!--                android:text="@string/stringOfYouGave"-->
+    <!--                android:gravity="center"-->
+    <!--                android:background="#FFC8C8"-->
+    <!--                android:padding="12dp"-->
+    <!--                android:textSize="16sp"-->
+    <!--                android:textColor="#000000"-->
+
+    <!--                />-->
+
+                <TextView
+                    android:id="@+id/idTextViewYouGotCustomerTransaction"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="@string/stringOfYouGot"
+                    android:gravity="center"
+                    android:padding="12dp"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="2"
+                android:id="@+id/id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="4dp"
+
+                >
+
+                <TextView
+                    android:id="@+id/idTextViewYouGaveCustomerTransactionActivity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="1"
+                    android:padding="12dp"
+                    android:gravity="center"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    />
+
+                <!--            <TextView-->
+                <!--                android:id="@+id/idTextViewYouGaveCustomerTransaction"-->
+                <!--                android:layout_weight="2"-->
+                <!--                android:layout_width="wrap_content"-->
+                <!--                android:layout_height="match_parent"-->
+                <!--                android:text="@string/stringOfYouGave"-->
+                <!--                android:gravity="center"-->
+                <!--                android:background="#FFC8C8"-->
+                <!--                android:padding="12dp"-->
+                <!--                android:textSize="16sp"-->
+                <!--                android:textColor="#000000"-->
+
+                <!--                />-->
+
+                <TextView
+                    android:id="@+id/idTextViewYouGotCustomerTransactionActivity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="100"
+                    android:gravity="center"
+                    android:padding="12dp"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="4"
+                android:id="@+id/id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="4dp"
+
+                >
+
+                <TextView
+                    android:id="@+id/idTextViewTotalMessageCustomerTransactionActivity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="@string/stringOfYouGave"
+                    android:padding="12dp"
+                    android:layout_gravity="center"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    />
+
+                <!--            <TextView-->
+                <!--                android:id="@+id/idTextViewYouGaveCustomerTransaction"-->
+                <!--                android:layout_weight="2"-->
+                <!--                android:layout_width="wrap_content"-->
+                <!--                android:layout_height="match_parent"-->
+                <!--                android:text="@string/stringOfYouGave"-->
+                <!--                android:gravity="center"-->
+                <!--                android:background="#FFC8C8"-->
+                <!--                android:padding="12dp"-->
+                <!--                android:textSize="16sp"-->
+                <!--                android:textColor="#000000"-->
+
+                <!--                />-->
+
+                <TextView
+                    android:id="@+id/idTextViewTotalBalanceCustomerTransactionActivity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="total balance"
+                    android:layout_gravity="center"
+                    android:padding="12dp"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+
+                    />
+
+            </LinearLayout>
+        </LinearLayout>
+<!--        <View-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="0.5dp"-->
+<!--            android:background="#000000"-->
+<!--            android:layout_marginLeft="8dp"-->
+<!--            android:layout_marginRight="8dp"-->
+<!--            />-->
+
+        <LinearLayout
+            android:id="@+id/id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            >
+
+            <TextView
+                android:id="@+id/idTextViewDateCustomerTransaction"
+                android:layout_weight="6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Date"
+                android:padding="12dp"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                />
+
+            <TextView
+                android:id="@+id/idTextViewYouGaveCustomerTransaction"
+                android:layout_weight="2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/stringOfYouGave"
+                android:gravity="center"
+                android:background="#FFC8C8"
+                android:padding="12dp"
+                android:textSize="16sp"
+
+                android:textColor="#000000"
+
+                />
+
+            <TextView
+                android:id="@+id/idTextViewYouGotCustomerTransaction"
+                android:layout_weight="2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/stringOfYouGot"
+                android:gravity="center"
+                android:padding="12dp"
+                android:textSize="16sp"
+                android:textColor="#000000"
+
+                />
+
+
+        </LinearLayout>
+
+<!--        <View-->
+<!--            android:id="@+id/idline"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="0.5dp"-->
+<!--            android:background="#000000"-->
+<!--            android:layout_alignBottom="@+id/id"-->
+<!--            android:layout_marginLeft="8dp"-->
+<!--            android:layout_marginRight="8dp"-->
+<!--            />-->
+
+        <androidx.recyclerview.widget.RecyclerView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/idRecycleViewCustomerTransaction"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffff"
+            android:layout_alignBottom="@+id/id"
+            android:layout_marginBottom="80dp"
+            />
+
+    </LinearLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_weight="5"
+            android:id="@+id/idButtonMakeYourTransactionCustomerTransactionActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/stringOfMakeYourTransaction"
+            android:textSize="16sp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="40dp"
+            android:layout_marginRight="24dp"
+            android:layout_marginLeft="24dp"
+            style="@style/ShapeAppearance.MaterialComponents.LargeComponent"
+            app:backgroundTint="#F65318"
+            />
+
+</RelativeLayout>

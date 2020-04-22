@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="right"
+                >
+
+                <ImageButton
+                    android:id="@+id/idImageButtonCloseCustomeAlertBoxLanguageSelection"
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    android:background="@null"
+                    android:src="@drawable/ic_close_black_24dp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/idTextViewSelectLanguageMessageCustomeAlertBoxLanguageSelection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/stringOfContinueWithLanguage"
+                android:padding="10dp"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingTop="30dp">
+
+
+                <Button
+                    android:id="@+id/idButtonContinueCustomeAlertBoxLanguageSelection"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/stringOfContinueButton"
+                    android:textSize="16sp"
+                    android:layout_marginRight="12dp"
+                    android:layout_marginLeft="12dp"/>
+        </LinearLayout>
+
+        </LinearLayout>
+
+</LinearLayout>
